@@ -1,0 +1,6 @@
+{
+    "emailInputId" : "#idp-discovery-username",
+    "nextButton" : "#idp-discovery-submit",
+    "passwordInputId" : "#okta-signin-password",
+    "signInButton": "#okta-signin-submit"
+}

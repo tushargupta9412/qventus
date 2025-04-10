@@ -1,0 +1,7 @@
+{
+    "URL": "https://qa-app-01.qventus.com",
+    "cred": {
+        "invalidEmailId": "BadUser",
+        "invalidPassword" : "BadPassword"
+    }
+}
